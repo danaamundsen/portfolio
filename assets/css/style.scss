@@ -3,12 +3,22 @@
 
 @import "{{ site.theme }}";
 
-h2 {
-  border-bottom: 1px solid #D1C9E4;
+.wrapper {
+  width:800px;
+  margin:auto;
 }
 
-h4 {
-  color: #674EA7;
+header {
+  width:inherit;
+  float:none;
+  position:relative;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width:inherit;
+  float:none;
+  padding-bottom:50px;
 }
 
 a {
