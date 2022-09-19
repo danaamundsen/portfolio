@@ -27,7 +27,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#D1C9E4;
+  color:#6666cc;
   font-weight: inherit;
   text-decoration: none;
 }
@@ -38,6 +38,7 @@ ul {
   padding: 0;
   width: 100%;
   overflow: hidden;
+  background: #6666cc;
 }
 
 li {
@@ -46,13 +47,10 @@ li {
 
 li a {
   display: block;
-  border-radius: 5px;
   color: white;
   text-align: center;
-  padding: 20px;
-  margin: 5px;
+  padding: 16px;
   text-decoration: none;
-  background: #6666cc;
 }
 
 li a:hover {
