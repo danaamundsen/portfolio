@@ -33,14 +33,15 @@ a:hover, a:focus {
 }
 
 ul {
-	list-style: none;
-	margin: 5px;
-	padding: 0;
-	overflow: hidden;
+  list-style: none;
+  margin: 5px;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
 }
 
 li {
-	float: center;
+  float: left;
 }
 
 li a {
