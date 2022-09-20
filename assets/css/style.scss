@@ -29,9 +29,9 @@ section {
 }
 
 .post{
-  width: 150px;
-  height: 150px;
-  margin:0px;
+  width: 400px;
+  height: 300px;
+  margin: 0px;
   padding: 5px;
   position: relative;
 }
@@ -39,11 +39,11 @@ section {
 .post_image{
   opacity: 1;
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 0px;
   object-fit: cover;
   object-position: 50% 50%;
-  width: 150px;
-  height: 150px;
+  width: 400px;
+  height: 300px;
   transition: .5s ease;
   backface-visibility: hidden;
 }
@@ -67,13 +67,12 @@ section {
 }
 
 .post_desc {
-  background-color: #fcf6fe;
-  color: #D1C9E4;
+  background-color: #fff;
+  color: #000;
   padding: 8px 16px;
   border-radius: 5px;
   text-align: center;
   font-size: 11px;
-  color: #674EA7;
 }
 
 a {
