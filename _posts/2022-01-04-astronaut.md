@@ -3,6 +3,7 @@ layout: post
 title: Astronaut 
 tags: ["Comics"]
 image: http://danaamundsen.site44.com/images/portfolio/covers/space_anthology.png
+desc: ["SPACE: A Comic Book Anthology"]
 permalink: /astronaut/
 ---
 
