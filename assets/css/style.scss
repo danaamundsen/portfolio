@@ -59,7 +59,7 @@ section {
 }
 
 .post:hover .post_image {
-  opacity: 1;
+  opacity: .3;
 }
 
 .post:hover .post_hover {
@@ -67,10 +67,8 @@ section {
 }
 
 .post_desc {
-  background-color: #fff;
   color: #000;
   padding: 8px 16px;
-  border-radius: 0px;
   text-align: center;
   font-size: 16px;
 }
