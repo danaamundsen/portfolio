@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The White Squirrel Vol. VI
-tags: ["book design"]
+tags: [""]
 permalink: /white-squirrel-6/
+publish: false
 ---
 
 ![A book cover with the text The White Squirrel, a black and white graphic of an acorn on a stem, and the edge of a burnt paper.](http://danaamundsen.site44.com/images/portfolio/print/front-cover.png)
