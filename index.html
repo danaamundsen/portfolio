@@ -7,27 +7,17 @@ layout: default
   <a href="/sledding/"><img class="mySlides" src="http://danaamundsen.site44.com/images/portfolio/magazine/sledding.png"></a>
   <a href="/forest-of-the-unicorn/"><img class="mySlides" src="http://danaamundsen.site44.com/images/portfolio/covers/fantasy_anthology.png"></a>
   <a href="/pip-and-maus/""><img class="mySlides" src="http://danaamundsen.site44.com/images/portfolio/commissions/pip_and_maus.png"></a>
-</div>
-
-    {% for tag in site.tags %}
-    <p id="{{ tag[0] | slugify }}"><b>{{ tag[0] }}</b></p>
-      {% for post in tag[1] %}
-	<div class="post"><img src="{{ post.image }}" class="post_image">
-<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-	</div>
-      {% endfor %}
-
-    {% endfor %}--->
+</div>--->
 
 {% for tag in site.tags %}
-    <p id="{{ tag[0] | slugify }}"><b>{{ tag[0] }}</b></p>
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
 	  <div class="container">
       {% for post in tag[1] %}
 
       <div class="post">
 	<img src="{{ post.image }}" class="post_image">
 	<div class="post_hover">
-	<div class="post_desc"><p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p></div>
+	<div class="post_desc"><p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>{{ post.desc }}</p></div>
 	</div>
 	      </div>
       {% endfor %}
