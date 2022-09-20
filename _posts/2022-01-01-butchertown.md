@@ -2,6 +2,7 @@
 layout: post
 title: Butchertown
 image: http://danaamundsen.site44.com/images/portfolio/magazine/butchertown.png
+desc: ["Lousville Magazine"]
 tags: ["Client Work"]
 permalink: /butchertown/
 ---
