@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pip and Maus
+image: http://danaamundsen.site44.com/images/portfolio/commissions/pip_and_maus.png
+desc: ["Pet Portrait"]
 tags: ["Client Work"]
 permalink: /pip-and-maus/
 ---
