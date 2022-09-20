@@ -41,7 +41,7 @@ section {
   display: inline-block;
   border-radius: 0px;
   object-fit: cover;
-  object-position: 30% 50%;
+  object-position: 50% 50%;
   width: 266px;
   height: 266px;
   transition: .5s ease;
@@ -59,7 +59,7 @@ section {
 }
 
 .post:hover .post_image {
-  opacity: .3;
+  opacity: 1;
 }
 
 .post:hover .post_hover {
