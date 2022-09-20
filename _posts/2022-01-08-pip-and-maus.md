@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pip and Maus
-tags: ["commissions"]
+tags: ["Client Work"]
 permalink: /pip-and-maus/
 ---
 
