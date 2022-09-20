@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Philosophy or Not To Philosophy
-tags: ["cover"]
+tags: ["Client Work"]
 permalink: /philosophy/
 ---
 
