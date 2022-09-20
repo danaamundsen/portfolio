@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Astronaut 
-tags: ["cover"]
+tags: ["Comics"]
+image: http://danaamundsen.site44.com/images/portfolio/covers/space_anthology.png
 permalink: /astronaut/
 ---
 
