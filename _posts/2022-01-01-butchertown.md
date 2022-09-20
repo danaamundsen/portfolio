@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Butchertown
-image: http://danaamundsen.site44.com/images/portfolio/magazine/butchertown.png
+image: http://www.danaamundsen.com/portfolio/client/louisville_mag/butchertown.png
 desc: ["Lousville Magazine"]
 tags: ["Client Work"]
 permalink: /butchertown/
 ---
 
-![Colorful illustration of a trolley driving down the street in Butchertown, Louisville.](http://danaamundsen.site44.com/images/portfolio/magazine/butchertown.png)
+![Colorful illustration of a trolley driving down the street in Butchertown, Louisville.](http://www.danaamundsen.com/portfolio/client/louisville_mag/butchertown.png)
 
 ##### Butchertown
+
+For [Louisville Magazine](https://louisville.com/) in 2016. A group of artists were hired to illustrate the different neighborhoods of Louisville.
 
 Splash Illustration  
 Louisville Magazine, 2016
