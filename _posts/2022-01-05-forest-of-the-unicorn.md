@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forest of the Unicorn 
-tags: ["cover"]
+tags: ["Comics"]
 permalink: /forest-of-the-unicorn/
 ---
 
