@@ -15,8 +15,6 @@ permalink: /lady-knight/
 
 Sample pages
 
-![](http://www.danaamundsen.com/portfolio/comics/lady_knight/title.png)
 ![](http://www.danaamundsen.com/portfolio/comics/lady_knight/sample1.png)
 ![](http://www.danaamundsen.com/portfolio/comics/lady_knight/sample2.png)
-![](http://www.danaamundsen.com/portfolio/comics/lady_knight/title2.png)
 ![](http://www.danaamundsen.com/portfolio/comics/lady_knight/sample3.png)
