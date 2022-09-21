@@ -4,7 +4,7 @@ title:  Winter Solstice
 tags: ["Illustration"]
 image: http://www.danaamundsen.com/portfolio/illus/winter.png
 desc: ["Digital Illustration"]
-permalink: //
+permalink: /winter/
 ---
 
 ![](http://www.danaamundsen.com/portfolio/illus/winter.png)
