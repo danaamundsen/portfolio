@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Astronaut 
+title: Space Cat 
 tags: ["Comics"]
 image: http://www.danaamundsen.com/portfolio/comic/SPACE/space_anthology.png
 desc: ["SPACE: A Comic Book Anthology"]
