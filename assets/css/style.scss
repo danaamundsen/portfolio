@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.body{
+  background-color: #eee;
+}
+
 .wrapper {
   width: 800px;
   margin: auto;
@@ -32,7 +36,7 @@ section {
   width: 266px;
   height: 266px;
   margin: 0px;
-  padding: 0px;
+  padding: 2px;
   position: relative;
 }
 
@@ -86,11 +90,11 @@ a:hover, a:focus {
 
 ul {
   list-style: none;
-  margin: 5px;
+  margin: 0px;
   padding: 0;
   width: 100%;
   overflow: hidden;
-  background: #6666cc;
+  background: #fff;
 }
 
 li {
