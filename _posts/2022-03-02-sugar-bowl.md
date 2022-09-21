@@ -3,7 +3,7 @@ layout: post
 title:  The Sugar Bowl
 tags: ["Illustration"]
 image: http://www.danaamundsen.com/portfolio/illus/sugar_bowl.png
-desc: ["Lemony Snicket"]
+desc: ["Digital Illustration"]
 permalink: /sugar-bowl/
 ---
 
