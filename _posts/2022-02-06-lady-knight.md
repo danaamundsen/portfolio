@@ -7,7 +7,7 @@ desc: ["Webcomic"]
 permalink: /lady-knight/
 ---
 
-![](http://www.danaamudsen.com/portfolio/comic/lady_knight/title.png)
+![](http://www.danaamundsen.com/portfolio/comic/lady_knight/title.png)
 
 #### Lady Knight
 
@@ -15,6 +15,6 @@ permalink: /lady-knight/
 
 Sample pages
 
-![](http://www.danaamundsen.com/portfolio/comics/lady_knight/sample1.png)
-![](http://www.danaamundsen.com/portfolio/comics/lady_knight/sample2.png)
-![](http://www.danaamundsen.com/portfolio/comics/lady_knight/sample3.png)
+![](http://www.danaamundsen.com/portfolio/comic/lady_knight/sample1.png)
+![](http://www.danaamundsen.com/portfolio/comic/lady_knight/sample2.png)
+![](http://www.danaamundsen.com/portfolio/comic/lady_knight/sample3.png)
