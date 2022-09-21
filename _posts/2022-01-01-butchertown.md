@@ -11,7 +11,6 @@ permalink: /butchertown/
 
 ##### Butchertown
 
-For [Louisville Magazine](https://louisville.com/) in 2016. A group of artists were hired to illustrate the different neighborhoods of Louisville for a special issue of the magazine. I was hired to represent Butchertown, an area with restored Victorian fascades and many colorful small businesses.
+For [Louisville Magazine](https://louisville.com/) in June 2016. A group of artists were hired to illustrate the different neighborhoods of Louisville for a city guide issue of the magazine. I was hired to represent Butchertown, an area with restored Victorian fascades and many colorful small businesses.
 
-Splash Illustration  
-Louisville Magazine, 2016
+!()[http://www.danaamundsen.com/potrfolio/client/louisville_mag/butchertown_sketch.png]
