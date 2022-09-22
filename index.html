@@ -22,7 +22,7 @@ layout: default
 <!--- POSTS --->
 						   
 {% for tag in site.tags %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <h1 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
 	  <div class="container">
       {% for post in tag[1] %}
 
@@ -35,7 +35,6 @@ layout: default
       {% endfor %}
 	  </div>
     {% endfor %}
-
                                                                                                                                        
 <script>
 var slideIndex = 1;
