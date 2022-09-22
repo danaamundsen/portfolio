@@ -3,12 +3,14 @@ layout: default
 permalink: /about/
 ---
 
-##About
+## About
 
 <img src ="http://www.danaamundsen.com/portfolio/selfie_icon.png" alt="Drawing of me, the artist, in black and white" class="avatar" align="left">
-Dana Amundsen creates intricate fantasy illustrations and comics using a combination of digital painting and 3D modeling techniques inspired by novels and her own original stories.
+Dana Amundsen creates intricate fantasy illustrations and comics using a combination of digital painting and 3D modeling techniques inspired by novels and her own original stories. 
 
-**Contact:** [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
+Dana believes drawings are vehichles for communication and story telling in addition to being beautiful works of art and would love to work with you to tell your story through drawings.
+
+### Contact [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
