@@ -3,15 +3,12 @@ layout: default
 permalink: /illustration/
 ---
 
-<div>
-  <h1>Illustrations</h1>
-  <ul style='padding-top: 16px;'>
-  
-{% for post in site.tags.illustration %}
+<p>Posts in category "illustration" are:</p>
 
-<h1>{{ post.title }}</h1>
-
-{% endfor %}
-  
-  </ul>
-</div>
+<ul>
+  {% for post in site.tags.illustration %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
