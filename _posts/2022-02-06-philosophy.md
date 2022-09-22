@@ -3,7 +3,7 @@ layout: post
 title: To Philosophy or Not To Philosophy
 tags: ["Comics"]
 permalink: /philosophy/
-published: false
+published: true
 ---
 
 ![Book cover with the title To Philosophy of Not to Philosophy. Cover shows a young man sitting on a chair in the position of Rodin's Thinker.](http://www.danaamundsen.com/portfolio/comic/philosophy/philosophy.png)
