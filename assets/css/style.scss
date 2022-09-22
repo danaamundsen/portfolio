@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body{
-  font-size: 12px;
+  font-size: 1em;
   background: #eee;
   font-family: helvetica, sans-serif;
 }
@@ -13,9 +13,14 @@ h1, h2, h3 {
   color: #666699;
 }
 
+h1 {
+  font-size: 3em;
+}
+
 h2 {
+  font-size: 2em;
   text-align: center;
-  padding: 25px 0px;
+  padding: 25px 0px 15px 0px;
 }
 
 h3 {
