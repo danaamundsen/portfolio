@@ -122,6 +122,9 @@ li a:hover {
   height: 600px;
 }
 
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+
 @media print, screen and (max-width: 960px) {
 
     section {
