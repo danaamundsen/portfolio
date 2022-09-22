@@ -3,6 +3,8 @@ layout: default
 permalink: /about/
 ---
 
+##About
+
 <img src ="http://www.danaamundsen.com/portfolio/selfie_icon.png" alt="Drawing of me, the artist, in black and white" class="avatar" align="left">
 Dana Amundsen creates intricate fantasy illustrations and comics using a combination of digital painting and 3D modeling techniques inspired by novels and her own original stories.
 
