@@ -170,9 +170,11 @@ li.menu_item a:hover {
 }
 
 .post_desc {
+  display: flex;
+  align-items:center;
+  justify-content:center;
   color: #000;
   padding: 4px;
-  text-align: center;
   font-size: 1em;
   font-weight: bold;
 }
