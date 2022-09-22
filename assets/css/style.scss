@@ -135,10 +135,10 @@ li.menu_item a:hover {
 }
 
 .post{
-  width: 266px;
-  height: 266px;
+  width: 262px;
+  height: 262px;
   margin: 0px;
-  padding: 0px;
+  padding: 2px;
   position: relative;
 }
 
@@ -148,8 +148,8 @@ li.menu_item a:hover {
   border-radius: 0px;
   object-fit: cover;
   object-position: 50% 50%;
-  width: 266px;
-  height: 266px;
+  width: 262px;
+  height: 262px;
   transition: .5s ease;
   backface-visibility: hidden;
 }
@@ -178,6 +178,7 @@ li.menu_item a:hover {
   justify-content: center;
   text-align: center;
   color: #000;
+  background: #fff;
   padding: 4px;
   font-size: 1em;
   font-weight: bold;
