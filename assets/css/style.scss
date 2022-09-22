@@ -75,10 +75,12 @@ li.menu_item a {
   display: block;
   color: #666699;
   text-align: center;
-  padding: 16px;
+  padding: 10px;
   text-decoration: none;
+  font-weight: bold;
   background: #fff;
   margin: 5px;
+  border-radius: 5px;
 }
 
 li.menu_item a:hover {
