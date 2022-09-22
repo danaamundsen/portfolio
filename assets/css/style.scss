@@ -65,7 +65,7 @@ section {
 ul.menu {
   list-style: none;
   margin: 0px;
-  padding: 0;
+  padding: 0px;
   width: 100%;
   overflow: hidden;
 }
@@ -82,7 +82,7 @@ li.menu_item a {
   text-decoration: none;
   font-weight: bold;
   background: #fff;
-  margin: 5px;
+  margin: 0px 0px 10px 10px;
 }
 
 li.menu_item a:hover {
