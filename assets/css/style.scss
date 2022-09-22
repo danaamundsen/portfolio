@@ -131,8 +131,8 @@ li.menu_item a:hover {
 }
 
 .post{
-  width: 266px;
-  height: 266px;
+  width: 30%;
+  height: 200px;
   margin: 0px;
   padding: 0px;
   position: relative;
@@ -144,8 +144,8 @@ li.menu_item a:hover {
   border-radius: 0px;
   object-fit: cover;
   object-position: 50% 50%;
-  width: 266px;
-  height: 266px;
+  width: 30%;
+  height: 200px;
   transition: .5s ease;
   backface-visibility: hidden;
 }
@@ -172,7 +172,8 @@ li.menu_item a:hover {
   color: #000;
   padding: 8px 16px;
   text-align: center;
-  font-size: 16px;
+  font-size: 1em;
+  font-weight: bold;
 }
 
 /* RESPONSIVE */
