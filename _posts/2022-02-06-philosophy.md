@@ -6,9 +6,10 @@ permalink: /philosophy/
 published: false
 ---
 
-![Book cover with the title To Philosophy of Not to Philosophy. Cover shows a young man sitting on a chair in the position of Rodin's Thinker.](http://danaamundsen.site44.com/images/portfolio/covers/philosophy.png)
+![Book cover with the title To Philosophy of Not to Philosophy. Cover shows a young man sitting on a chair in the position of Rodin's Thinker.](http://www.danaamundsen.com/portfolio/comic/philosophy/philosophy.png)
 
-##### To Philosophy or Not To Philosophy
-
-Cover  
-University of Louisville Philosophy Department, 2013
+![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-1.png)
+![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-2.png)
+![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-3.png)
+![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-4.png)
+![](http://www.danaamundsen.com/portfolio/comic/philosophy/page-5.png)
