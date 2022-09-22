@@ -7,17 +7,6 @@ layout: default
 
 {{content}}
 
- <!-- <small> date: {{ page.date | date: "%D" }} | 
- 
-  {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}
-  {% for tag in tags %}
-  tags: <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a></small>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}-->
 
 <p align="right">
     {% if page.previous.url %}
@@ -28,4 +17,3 @@ layout: default
     <a href="{{page.next.url}}">{{page.next.title}} --></a>
     {% endif %}
 </p>
-<!--- {{page.previous.title}} {{page.next.title}}--->
