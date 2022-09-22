@@ -83,7 +83,6 @@ li.menu_item a {
   font-weight: bold;
   background: #fff;
   margin: 5px;
-  border-radius: 5px;
 }
 
 li.menu_item a:hover {
@@ -94,7 +93,6 @@ li.menu_item a:hover {
 /* SLIDESHOW */
 
 .mySlides{
-  border-radius: 10px;
   object-fit: cover;
   object-position: 50% 50%;
   width: 100%;
@@ -108,7 +106,6 @@ li.menu_item a:hover {
 
 .slidebutton{
   border: none;
-  border-radius: 4px;
   background-color: #666699;
   color: #fff;
   padding: 4px 8px;
