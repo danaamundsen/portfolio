@@ -10,20 +10,21 @@ Dana Amundsen creates intricate fantasy illustrations and comics using a combina
 
 Dana believes drawings are vehichles for communication and story telling in addition to being beautiful works of art and would love to work with you to tell your story through drawings.
 
-### Contact [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
+### Contact
+
+[danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
-
 <div id="mc_embed_signup">
-<form action="https://dana-amundsen.us18.list-manage.com/subscribe/post?u=33d98cc15666b8c62e05361ca&amp;id=b3e3d60af3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Join My Mailing List</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+    <form action="https://dana-amundsen.us18.list-manage.com/subscribe/post?u=33d98cc15666b8c62e05361ca&amp;id=b3e3d60af3&amp;f_id=006b19e7f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+        <div id="mc_embed_signup_scroll">
+        <h2>Mailing List</h2>
+        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
 	<div id="mce-responses" class="clear foot">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -39,6 +40,8 @@ Dana believes drawings are vehichles for communication and story telling in addi
     </div>
 </form>
 </div>
+
+<!--End mc_embed_signup-->
 
 <!--End mc_embed_signup-->
 
