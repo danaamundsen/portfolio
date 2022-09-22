@@ -18,7 +18,7 @@ Email Dana at [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)
 <div id="mc_embed_signup">
     <form action="https://dana-amundsen.us18.list-manage.com/subscribe/post?u=33d98cc15666b8c62e05361ca&amp;id=b3e3d60af3&amp;f_id=006b19e7f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
         <div id="mc_embed_signup_scroll">
-        <h4>Join Dana's Mailing List</h4>
+        <h4>Join Dana's Mailing List</h4><p>Get biannual updates about Dana's recent projects and news.
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
