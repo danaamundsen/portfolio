@@ -9,8 +9,6 @@ permalink: /alan_white/
 
 ![](http://www.danaamundsen.com/portfolio/client/alan_white/alan_white2.png)
 
-#### Alan White
-
 In 2013 worked with Alan White, a blogger who was learning to create video games in his free time, to create an avatar based on his internet persona that he could use on social media.
 
 ![](http://www.danaamundsen.com/portfolio/client/alan_white/charactersketch3.png)
