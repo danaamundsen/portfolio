@@ -4,6 +4,7 @@ title: NelTabara
 tags: ["Client Work"]
 image: http://www.danaamundsen.com/portfolio/client/neltabara/nt.png
 desc: ["Logo Design"]
+published: false
 permalink: /neltabara/
 ---
 
