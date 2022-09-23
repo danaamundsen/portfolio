@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Forest of the Unicorn 
-image: http://www.danaamundsen.com/portfolio/comic/tall_tales/fantasy_anthology.png
+image: http://www.danaamundsen.com/portfolio/comic/tall_tales/thumb.png
 desc: ["Tall Tales and Little Lies: A Fantasy Comic Book Anthology"]
 tags: ["Comics"]
 permalink: /forest-of-the-unicorn/
