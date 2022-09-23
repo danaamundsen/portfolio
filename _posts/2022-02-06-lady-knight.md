@@ -2,7 +2,7 @@
 layout: post
 title: Lady Knight 
 tags: ["Comics"]
-image: http://www.danaamundsen.com/portfolio/comic/lady_knight/trio.png
+image: http://www.danaamundsen.com/portfolio/comic/lady_knight/thumb.png
 desc: ["Webcomic"]
 permalink: /lady-knight/
 ---
