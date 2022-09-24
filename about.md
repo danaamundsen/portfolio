@@ -8,13 +8,13 @@ permalink: /about/
 <img src ="http://www.danaamundsen.com/portfolio/selfie_icon.png" alt="Drawing of me, the artist, in black and white" class="avatar" align="left">
 Dana Amundsen creates intricate fantasy illustrations and comics using a combination of digital painting and 3D modeling techniques inspired by novels and her own original stories. 
 
-Dana believes drawings are vehichles for communication and story telling in addition to being beautiful works of art and would love to work with you to tell your story through drawings.
+Dana believes drawings are vehichles for communication and storytelling in addition to being beautiful works of art and would love to work with you to tell your story through drawings.
 
 ### Contact
 
 Email Dana at [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
 
-Get Biannual updates about Dana's recent projects and news:
+Get biannual updates about Dana's recent projects and news:
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
