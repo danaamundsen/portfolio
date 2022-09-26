@@ -62,44 +62,97 @@ Graduated Magna Cum Laude from the University of Louisville with a BFA in Fine A
 
 #### Illustration
 
-##### [Design and Build Great Web APIs](http://www.greatwebapis.com/)
+##### [Design and Build Great Web APIs](/web-apis/)
 Series of Illustrations  
-2020
+October, 2020
 
-Worked with the author to create a series of illustrations to communicate ideas explained in the book. This project took place over 3 months and involved lots of back and forth with the author. The author provided concept sketches for the ideas he wanted illustrated, which I then used to compose a coherent set of illustrations to use in the book.
+Worked with [Mike Amundsen](http://www.amundsen.com) to create a series of illustrations to communicate ideas explained in the book [Design and Build Great Web APIs](http://www.greatwebapis.com/). This project took place over 3 months and involved lots of back and forth with the author. The author provided concept sketches for the ideas he wanted illustrated, which I then used to compose a coherent set of illustrations to use in the book.
+
+##### Restful Web Clients
+Character Illustrations
+November, 2016
+
+Created 4 characters to be used throughout the book as avatars for the reader to learn through.
 
 ##### Louisville Magazine
 Splash Illustrations
 2014 - 2016
 
-Worked with Louisville Magazine 3 times to provide splash illustrations for the magazine.
-
-#### Comics and Games
-
-##### Louisville Cartoonist Society Space Anthology
-Comic and Back Cover  
-Summer 2016
-
-Conceptualized and drew an 8 page comic and illustrated the back cover for the Louisville Cartoonist Society Space Anthology.
+Worked with Louisville Magazine 3 times over the course of 3 years to provide splash illustrations for the magazine. These illustrations include [Sledding with a Snowman](/sledding/), [Fish in the Sea](/fish-in-the-sea/), and [Butchertown](/butchertown/).
 
 ##### [Trash Lord](https://philome.la/isjald/the-trash-lord/index.html)
-Illustrations for a text based twine game  
-2016
+Series of illustrations for a text based twine game  
+July, 2016
 
-Worked with a fellow creative to create a series of illustrations for a text based game where the player crash lands on a mysterious planet. The author shared their story ideas and over the course of 3 meetings we decided on the concepts that would become illustrations for the game. This was a very collaborative project.
+Collaborated with a fellow creative to create a series of illustrations for a text based game where the player crash lands on a mysterious planet. The author shared their story ideas and over the course of 3 meetings we decided on the concepts that would become illustrations for the game.
 
-##### [Lady Knight Web Comic](http://ladyknightcomic.tumblr.com/)
+##### [From Stacia to Hyperiod and Back: A Hypermedia Hero's Tale](http://mamund.com/talks/2015-05-barcelona/index.html)
+Series of Illustrations
+May, 2015
+
+Created a series of illustrations based on Joseph Campbell's Hero's Journey to accompany a talk about hypermedia by [Mike Amundsen](http://www.amundsen.com).
+
+##### The Vagina Zine
+Featured Illustration
+September, 2012
+
+Illustration titled *Lonely Alone* featured in the Fall 2012 edition of *The Vagina Zine*, a Texas based feminist zine that is no longer in publication.
+
+#### Comics and Zines
+
+##### [Waiter Cat](/waiter-cat/)
+Zine
+October, 2021
+
+A humorous 8 page zine about a cat waiting tables.
+
+##### [Space Cat](/space-cat/)
+Comic in The Louisville Cartoonist Society Presents: SPACE
+July, 2016
+
+An 8 page comic featured in the 2016 [Louisville Cartoonist Society](http://www.louisvillecartoonistsociety.com/) anthology. My work was also featured on the back cover of the anthology.
+
+##### [Lady Knight](/lady-knight/)
+Webcomic
 2015-2021
 
-In 2015 I began my first web comic project, title Lady Knight. The comic was updated frequently in the first year of it's publishing but was then updated only sporadically until I left the project on hiatus. I was the sole creator of the comic, from the scripting, to thumbnails, to lines, and tones/color. I also ran all of the social media promotions and digital publishing of the comic.
+In 2015 I began my first web comic project, title Lady Knight. The comic was updated frequently in the first year of it's publishing but was then updated sporadically until I left the project on hiatus. I was the sole creator of the comic, from the scripting, to thumbnails, to lines, and tones/color. I also ran all of the social media promotions and digital publishing of the comic.
 
-##### Louisville Cartoonist Society Tall Tales and Little Lies Anthology
-Comic and Back Cover  
-Summer 2015
+##### [The Forest of the Unicorn](/forest-of-the-unicorn)
+Comic in The Louisville Cartoonist Society Presents: Tall Tales & Little Lies
+July, 2015
 
-Wrote and drew a comic on the theme of fantasy, and drew a back cover splash illustration for local cartoonist society. The comic submitted to this anthology eventually became Lady Knight, my first online web comic.
+10 page comic features in the [Louisville Cartoonist Society](http://www.louisvillecartoonistsociety.com/) yearly anthology for 2015. This comic eventually became a prequel to my long running web comic [Lady Knight](http://ladyknightcomic.tumblr.com). My work was also selected for the back cover.
 
-#### Shows
+##### Cat Butts
+Zine
+July, 2015
+
+A humorous zine filled with illustrations of cats grooming themselves.
+
+##### [To Philosophy or Not To Philosophy](/philosophy/)
+Comic for the University of Louisville Philosophy Department
+August, 2013
+
+Dr. Brian Barnes of the Philosophy department was funding a comic to use in class and recruitment. The project was a collaboration between many artists. I revised the script and created a 10 page comic from thumbnails to final inks, as well as designing a cover illustration for the comic.
+
+#### Art Shows and Conventions
+
+##### Derby City Comic Con
+Comic and Pop Culture Convention
+July, 2016
+
+##### Cavalcade of Comics
+Comic Convention
+November, 2015
+
+##### Oldham County Comic Con
+Comic and Book Convention
+August, 2015
+
+##### Derby City Comic Con
+Comic and Pop Culture Convention
+July, 2015
 
 ##### Tiny Trifecta Art Show
 Rock Paper Scissors, Cincinnati  
