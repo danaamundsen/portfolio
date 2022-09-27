@@ -68,7 +68,7 @@ Series of Illustrations
 October, 2020  
 Worked with [Mike Amundsen](http://www.amundsen.com) to create a series of illustrations to communicate ideas explained in the book [Design and Build Great Web APIs](http://www.greatwebapis.com/). This project took place over 3 months and involved lots of back and forth with the author. The author provided concept sketches for the ideas he wanted illustrated, which I then used to compose a coherent set of illustrations to use in the book.
 
-##### Restful Web Clients
+##### [Restful Web Clients](/restful/)
 
 Character Illustrations  
 November, 2016  
