@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lonely Alone"
+tags: ["Illustration"]
 image: http://www.danaamundsen.com/portfolio/illus/loney-alone.jpg
 desc: Digital Illustration
 permalink: /lonely-alone/
