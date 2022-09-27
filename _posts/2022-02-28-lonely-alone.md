@@ -5,7 +5,6 @@ tags: ["Illustration"]
 image: http://www.danaamundsen.com/portfolio/illus/lonely-alone.jpg
 desc: Digital Illustration
 permalink: /lonely-alone/
-publish: true
 ---
 
 ![](http://www.danaamundsen.com/portfolio/illus/lonely-alone.jpg)
