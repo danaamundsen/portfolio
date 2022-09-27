@@ -7,8 +7,8 @@ tags: ["Comics"]
 permalink: /forest-of-the-unicorn/
 ---
 
-![](http://www.danaamundsen.com/portfolio/comic/tall-tales/photo1.png)
-![](http://www.danaamundsen.com/portfolio/comic/tall-tales/photo2.png)
+![](http://www.danaamundsen.com/portfolio/comic/tall_tales/photo1.png)
+![](http://www.danaamundsen.com/portfolio/comic/tall_tales/photo2.png)
 
 I participated in the [Louisville Cartoonist Society](http://www.louisvillecartoonistsociety.com/) Tall Tales and Little Lies Anthology in 2015. I submitted the following 8 page comic which became a prologue to my webcomic [Lady Knight](http://portfolio.danaamundsen.com/lady_knight/). Additionally, my illustration was featured on the back cover of the anthology.
 
