@@ -60,7 +60,7 @@ University of Louisville
 May 2013  
 Graduated Magna Cum Laude from the University of Louisville with a BFA in Fine Art and English.
 
-#### Illustration
+#### Illustrations
 
 ##### [Design and Build Great Web APIs](/web-apis/)
 
@@ -96,7 +96,7 @@ Created a series of illustrations based on Joseph Campbell's Hero's Journey to a
 
 Featured Illustration  
 September, 2012  
-Illustration titled *Lonely Alone* featured in the Fall 2012 edition of *The Vagina Zine*, a Texas based feminist zine that is no longer in publication.
+Illustration titled [*Lonely Alone*](/lonely-alone/) featured in the Fall 2012 edition of *The Vagina Zine*, a Texas based feminist zine that is no longer in publication.
 
 #### Comics and Zines
 
