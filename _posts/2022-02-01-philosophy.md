@@ -3,7 +3,7 @@ layout: post
 title: To Philosophy or Not To Philosophy
 tags: ["Comics"]
 image: http://www.danaamundsen.com/portfolio/comic/philosophy/philosophy.png
-desc: SUN Grant Project
+desc: UofL Philosphy Dept
 permalink: /philosophy/
 published: true
 ---
