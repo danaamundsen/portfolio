@@ -1,7 +1,32 @@
-title: Dana Amundsen
-description: Designer and Visual Storyteller
-remote_theme: pages-themes/minimal@v0.2.0
-show_downloads: false
-# google_analytics: 
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Simple #Website Name
+logo: /assets/img/logo.png
+favicon: #eg. /assets/img/favicon.png
+description: A modified Minimal theme for artists #Website Description
+google_analytics: 
+theme: jekyll-theme-minimal
+excerpt_separator: <!--more-->
+paginate: 5 #Posts per page
+paginate_path: "/page:num/"
+plugins: 
+  - jekyll-paginate
+  - jekyll-feed
+  
+# style
+google_fonts: Yes #yes or no
+body_font: Karla #font used for body text
+header_font: Chivo Mono #font used for title and header
+background_color: "#F0EEE9"
+font_color: "#28282D"
+color1: "#6667AB" #color of links and headers
+color2: "#615C61" #color of links on hover
+layout: #single_column option
+
+# social media (full urls)
+instagram: 
+facebook: 
+tumblr: 
+youtube: 
+mastodon: http://socel.net/@danaamundsen
+kofi: http://www.ko-fi.com/danaamundsen
+patreon: 
+twitch: 
