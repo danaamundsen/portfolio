@@ -5,7 +5,10 @@ description: Designer and Visual Storyteller #Website Description
 google_analytics: 
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
+paginate: 5 #Posts per page
+paginate_path: "/page:num/"
 plugins: 
+  - jekyll-paginate
   - jekyll-feed
   
 # style
