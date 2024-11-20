@@ -1,7 +1,7 @@
 title: Dana Amundsen #Website Name
 logo: # /assets/img/logo.png
 favicon: #eg. /assets/img/favicon.png
-description: Designer and Visual Storyteller #Website Description
+description: Graphic Designer and Visual Storyteller #Website Description
 google_analytics: 
 theme: jekyll-theme-minimal
 excerpt_separator: <!--more-->
@@ -19,7 +19,7 @@ background_color: "#F0EEE9"
 font_color: "#28282D"
 color1: "#6667AB" #color of links and headers
 color2: "#615C61" #color of links on hover
-layout: #single_column option
+layout: single_column #single_column option
 
 # social media (full urls)
 instagram: http://www.instagram.com/danaamundsen
