@@ -17,8 +17,8 @@ body_font: Old Standard TT #Cormorant Garamond #font used for body text
 header_font: Schibsted Grotesk #font used for title and headers
 background_color: "#FFFFFF"
 font_color: "#000000"
-color1: "#CCCCCC" #color of links and headers
-color2: "#000000" #color of links on hover
+color1: "#666666" #color of links and headers
+color2: "#CCCCCC" #color of links on hover
 layout: single_column #single_column option
 
 # social media (full urls)
