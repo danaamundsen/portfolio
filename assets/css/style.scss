@@ -69,14 +69,12 @@ li a.menu_item {
   font-style: italic;
   font-weight: 900;
   text-decoration: underline;
-  color: #00BBE0;
-  border-radius: 25px;
 }
 
 li a.menu_item:hover {
   text-decoration: none;
-  background-color: #FEE440;
-  color: #fff;
+  background-color: #666666;
+  color: #FFFFFF;
 }
 
 /* Tags */
@@ -179,24 +177,5 @@ ul.menu {
   section {
     border: 0px
   }
-
-/* Portfolio Items */
-
-ul.folio {
-  list-style-type: none;
-  overflow: hidden;
-  margin: 0;
-  padding: 0;
-}
-
-li a.folio_item {
-  float: left;
-  display: block;
-  padding: 1px;
-}
-
-.thumb {
-  height: 100%;
-}
   
 }
