@@ -5,7 +5,7 @@ layout: default
 <ul class="folio">
   {% for post in paginator.posts %}
 
-      <li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.tags }}"><img class="thumb" src="http://images.weserv.nl/?url=https://danaamundsen.github.io/portfolio/{{ post.img }}&w=200&h=200&fit=contain&cbg=black&output=png" alt="{{ post.title }} | {{ post.tags }}"></a></li>
+      <li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.tags }}"><img class="thumb" src="http://images.weserv.nl/?url=https://danaamundsen.github.io/portfolio/{{ post.img }}&w=200&h=200&fit=inside&output=png" alt="{{ post.title }} | {{ post.tags }}"></a></li>
 
         
 
