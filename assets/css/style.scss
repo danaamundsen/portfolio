@@ -101,7 +101,7 @@ li a.folio_item {
 }
 
 .thumb {
-
+  width: 200px;
 }
 
 /* layout */
@@ -160,5 +160,24 @@ ul.menu {
   section {
     border: 0px
   }
+
+/* Portfolio Items */
+
+ul.folio {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+li a.folio_item {
+  float: left;
+  display: block;
+  padding: 1px;
+}
+
+.thumb {
+  width: 100%;
+}
   
 }
