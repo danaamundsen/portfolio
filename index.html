@@ -2,9 +2,10 @@
 layout: default
 ---
 
+<ul class="folio">
   {% for post in paginator.posts %}
 
-      <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.img }}"></a>
+      <li><a class="folio_item" href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }} | {{ post.tags }}"><img src="{{ post.img }}"></a></li>
 
         
 
@@ -15,10 +16,9 @@ layout: default
   {% unless forloop.last %},&nbsp;{% endunless %}
         {% endfor %}</small> -->
 
-  <hr></hr>
-
   {% endfor %}
-
+</ul>
+  
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <center><p>
