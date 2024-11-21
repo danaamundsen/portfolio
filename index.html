@@ -4,16 +4,16 @@ layout: default
 
   {% for post in paginator.posts %}
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.img }}"></a>
 
-        <img src="{{ post.img }}">
+        
 
-      <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | tags: 
+      <!-- <small><a href="{{ site.baseurl }}{{ post.url }}">Permalink</a> | Date: {{ post.date | date: "%D" }} | tags: 
   {% assign tags = post.tags %}
   {% for tag in tags %}
   <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a>
   {% unless forloop.last %},&nbsp;{% endunless %}
-        {% endfor %}</small>
+        {% endfor %}</small> -->
 
   <hr></hr>
 
